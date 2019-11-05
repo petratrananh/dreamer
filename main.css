@@ -28,8 +28,11 @@ header {
     display: block;
     padding: 10px;
     color: white;
+    color: white;
     text-decoration: none;
 }
+
+
 
 .nav ul li a:hover {
     background: white;
