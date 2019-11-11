@@ -141,8 +141,9 @@ header {
 footer {
     background: black;
     height: 110px;
-    position: fixed;
+    position: absolute;
     bottom: 0;
+    left: 0;
     width: 94%;
     color: white;
 }
