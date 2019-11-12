@@ -1,5 +1,8 @@
 ﻿body {
     margin: 0 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 header {
@@ -140,11 +143,11 @@ header {
 
 footer {
     background: black;
+    margin-bottom: 0;
+    margin-top: 60%;
+    ;
     height: 110px;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 94%;
+    width: 100%;
     color: white;
 }
 
